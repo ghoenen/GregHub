@@ -1,0 +1,38 @@
+#filAriane{
+	width:90%;
+	height:60px;
+	border-color:#ECECEC;
+	border-width:thin;
+	border-style: solid;
+}
+
+#filArianeZoneOu, #filArianeZoneQuoi {
+	width:90%;
+	height:18px;
+	font-size:14px;
+	color:#000;
+	margin-top:10px;
+	margin-bottom:1px;
+}
+
+#filArianeZoneTitle{
+	width:90px;
+	height:28px;
+	font-size:15px;
+	color:rgb(213,28,41);
+	float:left;
+	font-weight:600;
+	margin-left:10px;
+}
+
+#filArianeZoneNaviQuoi, #filArianeZoneNaviOu {
+	height:28px;
+	font-size:13px;
+	margin-top:1px;
+	margin-bottom:1px;
+	margin-left:100px;
+	text-align:left;
+}
+
+
+	

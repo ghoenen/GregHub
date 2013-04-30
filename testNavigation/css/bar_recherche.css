@@ -1,0 +1,71 @@
+#intuitiveSearchBar {
+	width:90.2%;
+	height:38px;
+	background-color:#ECECEC;
+	margin-bottom:2px;
+}
+
+.intuitiveSearchBar{
+	width:90%;
+	height:34px;
+}
+
+#intuitiveSearchBarLangZone {
+	float:left;
+	width:20%;
+	height:34px;
+	text-align:center;
+	margin-top:10px;
+	font-size:14px;
+}
+	
+.intuitiveSearchBar button {
+	width:25px;
+	height:25px;
+	margin-top:5px;
+	margin-left:5%;
+	background-color:rgb(213,28,41);
+	color:#fff;
+	padding:0 0 0 0;
+	font-size:12px;
+}
+
+.intuitiveSearchBar input {
+	margin-top:5px;
+	margin-left:5%;
+	text-align:center;
+	width:20%;
+	height:25px;
+	border:none;
+}
+
+#barre {
+	margin-top: 10px;
+	margin-bottom: -15px;
+	margin-left:9%
+}
+
+#intuitiveSearchBarLangSelectedBox {
+	font-weight:600;
+}
+
+#intuitiveSearchBarLangSelectedBox:-webkit-any-link {
+	text-outline:rgb(213,28,41);
+	text-decoration:none;
+	color:#000;
+}
+
+#intuitiveSearchBarLangNonSelectedBox {
+	font-weight:400;
+}
+
+#intuitiveSearchBarLangNonSelectedBox:-webkit-any-link {
+	text-decoration:none;
+	color:#000;
+}
+
+#intuitiveSearchBarLangSelectedBox:hover {
+	text-decoration:underline;
+	outline-color:#D41F00;
+}
+	
